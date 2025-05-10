@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 //....
-
+//..
 public class Main extends JFrame {
     private ControlWindow cw = new ControlWindow();
 
